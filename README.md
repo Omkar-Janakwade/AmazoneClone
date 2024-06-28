@@ -27,13 +27,12 @@ This project is a clone of Amazon, developed as part of a technical interview fo
 - Java Development Kit (JDK)
 - MySQL Server
 
-### Frontend
 
 1. Clone the repository:
    ```sh
    git clone https://github.com/Omkar-Janakwade/AmazoneClone.git
 
-   ## Branches
+
 
 - **main**: Contains the main project setup and backend code (Java).
 - **angular-project**: Contains the frontend code (Angular).
